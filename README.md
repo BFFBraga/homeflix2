@@ -2,6 +2,7 @@
 
 # open-directory.github.io
 http://open-directory.github.io
+https://bffbraga.github.io/homeflix2/
 
 A script generated, open-directory style catalog of data, usually found in other open-directories.
 
